@@ -1,16 +1,12 @@
-# SNLP-project
-
 # Natural language processing project
 
-## Date: 12 April 2024
-
-## Authors: Edvard Ohlström, Eemeli Astola, Linus Lind, Heikki Penttinen
-
-## LICENSE: GNU GPLv3
+##### Date: 12 April 2024
+##### Authors: Edvard Ohlström, Eemeli Astola, Linus Lind, Heikki Penttinen
+##### LICENSE: GNU GPLv3
 
 ## Overview
 
-In this project we implment several models for sentiment analysis of speech data. Modles used are Bag of words, CNN, LSTM and BERT. Comparison can be found in the [text](model_comparison.ipynb) and detailed information can be found in the PDF.
+In this project, we implement several models for sentiment analysis of speech data. Models used are Bag of Words, CNN, LSTM and BERT. Comparison can be found in the [comparison file](model_comparison.ipynb) and detailed information can be found in the PDF.
 
 Here is an overview of the project's file structure and a brief description of the main components:
 
